@@ -37,6 +37,10 @@ An USB device that allows you to press the main modifier keys of the keyboard in
 
 <img src="img/schematic.png" alt="Schematic"/>
 
+## Code
+
+The Arduino code is included
+
 ## Assembly
 
 
