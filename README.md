@@ -4,7 +4,7 @@
   <img src="img/lkm1.jpg" alt="Leonardo Modifier Keys Controller"/>
 </p>
 
-<p align="center">An Arduino Leonardo powered box that allows tou to press the modifier keys of the computer for disabled people.</p>
+<p align="center">An Arduino Leonardo powered box that allows you to press the modifier keys of the computer.</p>
 
 ## Description
 
