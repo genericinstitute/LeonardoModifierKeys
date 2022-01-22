@@ -35,7 +35,7 @@ An USB device that allows you to press the main modifier keys of the keyboard in
 
 ## Schematics
 
-
+<img src="img/schematic.png" alt="Schematic"/>
 
 ## Assembly
 
