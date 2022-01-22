@@ -14,15 +14,31 @@ An USB device that allows you to press the main modifier keys of the keyboard in
 
 1x Arduino Leonardo
 
+<img src="img/leonardo.jpg" alt="Arduino Leonardo"/>
+
 1x Protoshield
+
+<img src="img/leonardo.jpg" alt="Arduino Leonardo"/>
 
 3x Push Buttons
 
+<img src="img/leonardo.jpg" alt="Arduino Leonardo"/>
+
 3x resistors (300-10k Ω)
 
-3D Printed case (STL included).
+<img src="img/leonardo.jpg" alt="Arduino Leonardo"/>
+
+3D Printed case (STL included)
+
+<img src="img/leonardo.jpg" alt="Arduino Leonardo"/>
+
 
 ## Schematics
 
 
 ## Code
+
+The Arduino code is included.
+
+## Assembly
+
