@@ -10,6 +10,10 @@
 
 An USB device that allows you to press the main modifier keys of the keyboard in case you can't put both hands in the keyboard. It's a box with three buttons corresponding to Control, Shift and Alt and a micro USB port.
 
+<img src="img/step0.jpg" alt="Step 0"/>
+
+<img src="img/step9.jpg" alt="Step 9"/>
+
 ## Hardware
 
 1x Arduino Leonardo
@@ -43,34 +47,18 @@ The Arduino code is included
 
 ## Assembly
 
-
 <img src="img/step1.jpg" alt="Step 1"/>
-
-
 
 <img src="img/step2.jpg" alt="Step 1"/>
 
-
-
 <img src="img/step3.jpg" alt="Step 1"/>
-
-
 
 <img src="img/step4.jpg" alt="Step 1"/>
 
-
-
 <img src="img/step5.jpg" alt="Step 1"/>
-
-
 
 <img src="img/step6.jpg" alt="Step 1"/>
 
-
-
 <img src="img/step7.jpg" alt="Step 1"/>
 
-
-
 <img src="img/step8.jpg" alt="Step 1"/>
-
