@@ -43,7 +43,7 @@ An USB device that allows you to press the main modifier keys of the keyboard in
 
 ## Code
 
-The Arduino code is included
+The Arduino code is included and commented.
 
 ## Assembly
 
